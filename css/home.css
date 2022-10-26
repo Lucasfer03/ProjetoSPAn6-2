@@ -1,0 +1,14 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1565023998836-962ff9d5f9be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OHx8fGVufDB8fHx8&w=1000&q=80);
+  background-size: 100%;
+}
+
+h1 {
+  margin-top: 172px;
+  text-align: center;
+}
+
+button {
+  display: flex;
+  margin: auto auto;
+}

@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://assets.flightstats.com/v2/backgrounds/Clouds.jpg);
+  background-size: 100%;
+}
+
+h1 {
+  margin-top: 63px;
+  margin-bottom: 20px;
+  margin-left: 102px;
+}
+
+p {
+  width: 648px;
+  height: 203px;
+  margin-top: 40px;
+  margin-left: 102px;
+}
